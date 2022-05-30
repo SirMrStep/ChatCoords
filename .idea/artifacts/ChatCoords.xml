@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatCoords">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatCoords</output-path>
+    <root id="archive" name="ChatCoords.jar">
+      <element id="module-output" name="ChatCoords" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
